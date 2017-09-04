@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Always looking for an inclusive environment to welcoming learn new knowledge.
 
-### More Information
+### Location
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently in Philadelphia, PA, but forever remote.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fuhton at gmail](mailto:fuhton@gmail.com)
