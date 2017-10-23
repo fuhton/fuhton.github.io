@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Google Maps in AngularJS 
+title: Google Maps in AngularJS
 ---
 
 ## How do I display a nice map?
