@@ -5,8 +5,8 @@ title: Google Maps in AngularJS
 
 ## How do I display a nice map?
 
-[Gist of Code](ttps://gist.github.com/fuhton/8869022)
-[Angular directives docs](https://developers.google.com/maps/documentation/javascript/controls)
+* [Gist of Code](ttps://gist.github.com/fuhton/8869022)
+* [Angular directives docs](https://developers.google.com/maps/documentation/javascript/controls)
 
 ### Directives in the HTML
 
