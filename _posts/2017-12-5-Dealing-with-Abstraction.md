@@ -3,7 +3,7 @@ layout: post
 title: Dealing with Abstraction (in React)
 ---
 
-My teams unofficial team motto is "let reuse drive" - meaning let the need for abstraction come as needed. This motto isn't a law, especially when architecting a whole system, but a principle when developing business logic and front end components. Below is an example of an abstracted component.
+My team's unofficial team motto is "let reuse drive" - meaning let the need for abstraction come as needed. This motto isn't a law, especially when architecting a whole system, but a principle when developing business logic and front end components. Below is an example of an abstracted component.
 
 
 ```
