@@ -2,9 +2,6 @@
 layout: post
 title: Running test-kitchen with Docker
 ---
-
-# Running test-kitchen with Docker
-
 With some configurability, Docker is a great choice to test chef recipes in a cookbook. While there are a few small gotchas, I've marked my journey below. I configured this to work successfully on a set of existing cookbooks I inherited and the production instance they run on. Most of the following info involves spinning up a new cookbook and a boilerplate recipe, but the content I pulled directly from my solutions. Feel free to reach out to me on [twitter](https://twitter.com/fuhton) about questions, corrections, or comments.
 
 ## Pre-Setup
