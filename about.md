@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Always looking for an inclusive environment to welcoming learn new knowledge.
+Javascript Engineer at Sidecar Interactive building UI's and API's.
 
 ### Location
 
-Currently in Philadelphia, PA, but forever remote.
+Currently in Philadelphia, PA working in an office.
 
 ### Contact me
 
