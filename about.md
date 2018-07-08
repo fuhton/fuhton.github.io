@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Javascript Engineer at Sidecar Interactive building UI's and API's.
+Javascript Engineer at [Sidecar](https://hello.getsidecar.com/) building UI's and API's.
 
 ### Location
 
