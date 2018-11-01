@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Javascript Engineer at [Sidecar](https://hello.getsidecar.com/) building UI's and API's.
+Engineer at [Sidecar](https://hello.getsidecar.com/) building UI's and API's. Focuses on React, documentation, and common sense testing. Was once a junior engineer who stared at the `parse` function in the Backbone docs for over 6 hrs. 
 
 ### Location
 
