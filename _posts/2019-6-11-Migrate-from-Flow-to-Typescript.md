@@ -6,6 +6,7 @@ title: Migrate from Flow to Typescript
 Whatever your reason for migration from Flow to Typescript, it's not easy - especially for a mature codebase with active contributors. Speaking from experience, this will cause headaches for you and your team. Personally I took 2 different approaches, the latter being successful (mostly). My first approach was to have Flow and Typescript coexist in a 1,000 file project, but this really doesn't work for two big reasons 
 
 1) Developer experience - devs have to know 2 typing systems and which typing system to apply to their current work
+
 2) Project setup - your project now needs to support both typing systems and _exclude_ the other typing system in the correct files - aka a headache
 
 Taking a step back, I realized the best way is to rip the bandaid off and migrate over a long weekend on your own (depending on the size/shape of your team). I started on a Friday morning and finish up on a Sunday evening - by Monday morning I had our entire CI/CD process running smoothly and my team quickly reviewed and approved the changes. It took a few bad starts to get everything just right (so that I could get it done in a weekend) so I've decided to share my approach so you can avoid similar mistakes.
