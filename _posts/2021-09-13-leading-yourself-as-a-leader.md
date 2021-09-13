@@ -3,6 +3,8 @@ layout: post
 title: Leading yourself as a leader
 ---
 
+_Cross posted on [Medium](https://medium.com/@fuhton/leading-yourself-as-a-leader-ff1d25cb247c)_
+
 As part of the leadership experience, there will be times that you don’t receive direction or a mission statement to follow, but are expected to lead an organization or department regardless. Success is obvious, but rarely defined or attributed to specific outcomes. There is no single mission statement to follow, no “Will it make the boat go faster” guide. In order to succeed you must understand your place in the broader system and then articulate a direction with some key results, metrics, or projects.
 
 “Will it make the boat go faster” is about a group of individuals with a singular focus - winning the Olympic Gold as a rowing team in 2000. As they trained leading up to the Olympics, the team did everything based on a binary response to that question. It is pithy and it reeks of corporate jargon, but it works when you are a leader having to lead yourself. 
