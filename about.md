@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Engineer at [Sidecar](https://hello.getsidecar.com/) building UI's and API's. Focused on React, documentation, and common sense testing. Was once a junior engineer who stared at the `parse` function in the Backbone docs for over 6 hrs. 
+Was once a junior engineer who stared at the `parse` function in the Backbone.JS docs for over 6 hrs.
 
 ### Location
 
-Currently in Philadelphia, PA working in an office.
+Currently around Philadelphia, Pennsylvania
 
 ### Contact me
 
 [fuhton at gmail](mailto:fuhton@gmail.com)
+[fuhton on Twitter](https://twitter.com/fuhton)
