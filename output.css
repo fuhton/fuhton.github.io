@@ -554,6 +554,11 @@ video {
   display: none;
 }
 
+p {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
 .container {
   width: 100%;
 }
